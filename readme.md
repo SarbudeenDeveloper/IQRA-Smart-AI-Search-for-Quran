@@ -74,4 +74,4 @@ IQRA-Smart-AI-Search-for-Quran/
 
 ## Contact
 
-For any inquiries or further information, please contact us at [email@example.com](mailto:email@example.com).
+For any inquiries or further information, please contact us at [iqra.search.ai@gmail.com](mailto:iqra.search.ai@gmail.com).
